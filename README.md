@@ -139,9 +139,7 @@ If you use this framework in your research, please cite both this repository and
 
 ## Acknowledgements
 
-This research was conducted independently and received no ex-
-ternal funding. The simulation framework and analysis code are available at https:
-//github.com/CameronMoreira/agenty-python.
+This research was conducted independently and received no external funding. The simulation framework and analysis code are available at https://github.com/andreas-he/agenty-python.
 
 This project was developed as a collaborative research effort by:
 - Cameron Tomé-Moreira
