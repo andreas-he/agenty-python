@@ -76,6 +76,9 @@ Thumbs.db
 
 # --- Project Specific ---
 
+# Binary / serialized files
+*.pkl
+
 # Generated evaluation/log files
 /scenario_server/scenario_state_*.json
 /scenario_server/scripted_events_*.json
