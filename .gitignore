@@ -79,6 +79,9 @@ Thumbs.db
 # Binary / serialized files
 *.pkl
 
+# Lock files
+uv.lock
+
 # Generated evaluation/log files
 /scenario_server/scenario_state_*.json
 /scenario_server/scripted_events_*.json
